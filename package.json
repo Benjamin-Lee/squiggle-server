@@ -14,7 +14,7 @@
     "fix": "npm run lint -- --fix"
   },
   "dependencies": {
-    "@assemblyscript/loader": "^0.17.12",
+    "@assemblyscript/loader": "^0.19.7",
     "@nuxtjs/axios": "^5.12.4",
     "@statnett/vue-plotly": "^0.3.2",
     "bio-parsers": "^7.0.5",
